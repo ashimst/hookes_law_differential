@@ -1,0 +1,9 @@
+
+# Ignore the media folder
+/media/
+
+# Ignore the virtual environment folder
+/venv/
+
+# Ignore the __pycache__ directory
+__pycache__/
